@@ -1,0 +1,8 @@
+1) Aceitar somentr as cidades de 
+VR, BM, BP, RJ, SP, PH
+2) Quando clicar no botão Total, exibir as seguintes informações no console
+  a) Total de usuários cadastros
+  b) Total de usuários que moram em VR
+  c) Total de usuários que moram em BM e PH
+  d) Total de usuários que não moram em BP
+  
